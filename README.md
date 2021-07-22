@@ -1,2 +1,2 @@
-# Coditas-Training
+# Java Course
 Java Training course 
